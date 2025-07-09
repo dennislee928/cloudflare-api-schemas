@@ -13,7 +13,7 @@
   "dependencies": {
     "@apidevtools/json-schema-ref-parser": "^11.7.2",
     "@apidevtools/openapi-schemas": "^2.1.0",
-    "@redocly/cli": "^1.25.8",
+    "@redocly/cli": "^1.34.3",
     "puppeteer": "^19.9.0"
   }
 }
