@@ -11,9 +11,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@apidevtools/json-schema-ref-parser": "^11.7.2",
+    "@apidevtools/json-schema-ref-parser": "^11.9.3",
     "@apidevtools/openapi-schemas": "^2.1.0",
+
     "@redocly/cli": "^1.25.8",
     "puppeteer": "^22.13.1"
+
   }
 }
