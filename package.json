@@ -14,6 +14,6 @@
     "@apidevtools/json-schema-ref-parser": "^11.9.3",
     "@apidevtools/openapi-schemas": "^2.1.0",
     "@redocly/cli": "^2.0.8",
-    "puppeteer": "^24.9.0"
+    "puppeteer": "^24.18.0"
   }
 }
